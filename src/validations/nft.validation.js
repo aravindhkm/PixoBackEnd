@@ -32,13 +32,9 @@ const isEligibleToMint = {
   }),
 };
 
-const getNfts = {
+const pixoErc20Balance = {
   query: Joi.object().keys({
-    name: Joi.string(),
-    role: Joi.string(),
-    sortBy: Joi.string(),
-    limit: Joi.number().integer(),
-    page: Joi.number().integer(),
+    account: Joi.string().required(),
   }),
 };
 
@@ -46,6 +42,7 @@ const getNfts = {
 module.exports = {
   getNftPrice,
   getNftBalance,
+  pixoErc20Balance,
   getNftSaleDetails,
   getSingleNftBalance,
   isEligibleToMint

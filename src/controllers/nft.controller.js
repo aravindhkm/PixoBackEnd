@@ -85,9 +85,23 @@ const isEligibleToMint = catchAsync(async (req, res) => {
   });
 });
 
+const pixoErc20Balance = catchAsync(async (req, res) => {
+  const pixoBalance = Number(await tokenInstance.methods.balanceOf(req.query.account).call());
+  const pixoAllowance = Number(await tokenInstance.methods.allowance(req.query.account,config.pixoNft).call());
+
+  res.status(httpStatus.CREATED).send({
+      "status": true,
+      "data": {
+        "pixoErc20Balance": pixoBalance,
+        "pixoAllowance": pixoAllowance
+      }
+  });
+});
+
 module.exports = {
   getNftPrice,
   getNftBalance,
+  pixoErc20Balance,
   getSingleNftPrice,
   getNftSaleDetails,
   isEligibleToMint
