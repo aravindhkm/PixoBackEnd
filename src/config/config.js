@@ -8,7 +8,7 @@ const envVarsSchema = Joi.object()
   .keys({
     NODE_ENV: Joi.string().valid('production', 'development', 'test').required(),
     PORT: Joi.number().default(3000),
-    MONGODB_URL: Joi.string().required().description('Mongo DB url'),
+    // MONGODB_URL: Joi.string().required().description('Mongo DB url'),
     RPC_URL: Joi.string().required().description('Target Rpc url'),
     PIXO_NFT: Joi.string().required().description('Pixo Nft Contract Address'),
     PIXO_TOKEN: Joi.string().required().description('Pixo Token Contract Address'),
@@ -34,7 +34,7 @@ module.exports = {
   env: envVars.NODE_ENV,
   port: envVars.PORT,
   mongoose: {
-    url: envVars.MONGODB_URL + (envVars.NODE_ENV === 'test' ? '-test' : ''),
+    // url: envVars.MONGODB_URL + (envVars.NODE_ENV === 'test' ? '-test' : ''),
     options: {
       useCreateIndex: true,
       useNewUrlParser: true,

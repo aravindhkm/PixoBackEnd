@@ -12,6 +12,8 @@ router.get('/getNftPrice', validate(nftValidation.getNftPrice) , nftController.g
 router.get('/getNftSaleDetails', validate(nftValidation.getNftSaleDetails) , nftController.getNftSaleDetails);
 router.get('/isEligibleToMint', validate(nftValidation.isEligibleToMint) , nftController.isEligibleToMint);
 router.get('/pixoErc20Balance', validate(nftValidation.pixoErc20Balance) , nftController.pixoErc20Balance);
+router.get('/getTokenUri',validate(nftValidation.getTokenUri) , nftController.getTokenUri);
+router.get('/getAllTokenUri',validate(nftValidation.getAllTokenUri) , nftController.getAllTokenUri);
 
 
 module.exports = router;
