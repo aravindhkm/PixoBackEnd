@@ -1,0 +1,26 @@
+
+
+[1,2,3,4,5,23,24,25,26,31,32,33,34,35,37,41,42,43,44,45]
+
+{
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/1.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/2.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/3.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/4.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/5.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/23.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/24.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/25.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/26.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/31.json",    
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/32.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/33.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/34.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/35.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/37.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/41.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/42.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/43.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/44.json",
+    "https://purple-superb-emu-214.mypinata.cloud/ipfs/QmNoTMa8VG9uzBQY7qYMac4Sfygw4F4k1m6kjy4vBEEyrG/45.json",
+}
